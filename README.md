@@ -1,9 +1,13 @@
 **Project name:**  
 My Simple Calculator
 
+
+
 <p align="center">
   <img src="my_simple_calculator.PNG" alt="SimpleCalculator" style="width:400px; height:500px;">
 </p>
+
+
 
 This is a simple Python calculator project using tkinter library to create a GUI application that allows you to perform basic arithmetic calculations. The calculator has been converted into an executable (.exe) application for easy and convenient use.
 
