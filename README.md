@@ -1,11 +1,11 @@
 **Project name:**  
-My Simple Calculator
+My Simple Calculator  
 
 
 
 <p align="center">
-  <img src="my_simple_calculator.PNG" alt="SimpleCalculator" style="width:400px; height:500px;">
-</p>
+  <img src="my_simple_calculator.PNG" alt="SimpleCalculator" style="width:450px; height:500px;">
+</p>  
 
 
 
